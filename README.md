@@ -2,4 +2,4 @@
 Demos for UQMARS in OpenCV
 
 ![UQMARS](MARS-logo.png)
-![UQMARS](UQMARS.png)
+![UQMARS](OpenCV_Logo.png)
